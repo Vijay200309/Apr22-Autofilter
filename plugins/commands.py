@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('⚡ Updates channel⚡', url='https://t.me/MoviGenX')
+                InlineKeyboardButton('⚡ Updates channel⚡', url='https://t.me/MovieAble')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('♻️ Add Me To Your Groups ♻️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎯 Movie Group 🎯', url='https://t.me/MoviZenXFlix'),
-            InlineKeyboardButton('⚡ Updates channel ⚡', url='https://t.me/MoviGenX')
+            InlineKeyboardButton('🎯 Support Group 🎯', url='https://t.me/Clubhouse_Movieable'),
+            InlineKeyboardButton('⚡ Updates channel ⚡', url='https://t.me/MovieAble')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -90,8 +90,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('♻️ Add Me To Your Groups ♻️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎯 Movie Group 🎯', url='https://t.me/MoviZenXFlix'),
-            InlineKeyboardButton('⚡ Updates channel ⚡', url='https://t.me/MoviGenX')
+            InlineKeyboardButton('🎯 Support Group 🎯', url='https://t.me/Clubhouse_Movieable'),
+            InlineKeyboardButton('⚡ Updates channel ⚡', url='https://t.me/MovieAble')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
