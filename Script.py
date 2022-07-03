@@ -1,11 +1,11 @@
 class script(object):
     START_TXT = """<b>Hey {} 👋🏼</b>,
-<b>I'm <a href=https://t.me/MoviGenX>Media Search Bot</a></b>🤭
+<b>I'm <a href=https://t.me/MovieAble>Media Search Bot</a></b>🤭
 <b>Just Add me to your Group And make Admin there and send me the name of media on that Group.</b>
 Owner - @Vijay_Patil_9 ❤️✌️"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """⭐ Name: <b>@MoviZenXFilterBot</b>
+    ABOUT_TXT = """⭐ Name: <b>@MovieableFilterBot</b>
 ⭐ Creators: <a href=https://t.me/MovieAble>©️Team MovieAble</a>
 ⭐ Library: Pyrogram
 ⭐ Language: <code>Python 3.2</code>
@@ -13,7 +13,7 @@ Owner - @Vijay_Patil_9 ❤️✌️"""
 ⭐ Daddy's Name: <a href=https://t.me/Vijay_patil_9>VijayRaj</a>"""
     SOURCE_TXT = """<b>NOTE:</b>
 -○  ɪᴛ's ɴᴏᴛᴇ ᴄᴏᴍᴘʟɪᴄᴀᴛᴇᴅ...🤓
--○  ᴄʀᴇᴀᴛᴇ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ @MoviZenXFilterBot ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ, ᴀɴᴅ sᴛᴀʀᴛ ᴀsᴋɪɴɢ ᴍᴏᴠɪᴇs ᴏɴ ᴛʜᴀᴛ ɢʀᴏᴜᴘ 
+-○  ᴄʀᴇᴀᴛᴇ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ @MovieableFilterBot ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ, ᴀɴᴅ sᴛᴀʀᴛ ᴀsᴋɪɴɢ ᴍᴏᴠɪᴇs ᴏɴ ᴛʜᴀᴛ ɢʀᴏᴜᴘ 
 ᴇɴᴊᴏʏ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs 🔥❤️  
 <b>DEVS:</b>
 - <a href=https://t.me/vijay_patil_9>VijayRaj</a>"""
@@ -32,13 +32,13 @@ Owner - @Vijay_Patil_9 ❤️✌️"""
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
-- @MoviZenXFilterBot Supports both url and alert inline buttons.
+- @MovieableFilterBot Supports both url and alert inline buttons.
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. @MoviZenXFilterBot supports buttons with any telegram media type.
+2. @MovieableFilterBot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MoviGenX)</code>
+<code>[Button Text](buttonurl:https://t.me/Movieable)</code>
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
@@ -64,7 +64,7 @@ Owner - @Vijay_Patil_9 ❤️✌️"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of @MoviZenXFilterBot
+these are the extra features of @MovieAbleFilterBot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
